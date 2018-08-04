@@ -2,6 +2,6 @@
 #include <iostream>
 using namespace std;
 int main(void) {
-
+	ggg
 	return 0;
 }
